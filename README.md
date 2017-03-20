@@ -1,5 +1,6 @@
 # mc-mod-downloader
 A simple and brutal Minecraft mod downloader.
+Parses the manifest.json file and downloads the .jar files into a dedicated folder.
 
 ## Usage
 This is intended for Linux users and/or users of MultiMC.
